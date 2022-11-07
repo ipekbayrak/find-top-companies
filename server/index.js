@@ -2,7 +2,7 @@ import express from 'express'
 import apiRouter from './api/index.js'
 import connect from './database.js'
 
-const SERVER_PORT = process.env.SERVER_PORT || 3000
+const SERVER_PORT = process.env.PORT || 80
 
 // connect to mongodb
 connect()
