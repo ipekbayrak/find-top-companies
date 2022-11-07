@@ -1,0 +1,198 @@
+[
+    {
+        "category": "Technology",
+        "subcategory": [
+            "Consumer Electronics",
+            "Software—Infrastructure",
+            "Semiconductors",
+            "Semiconductor Equipment &amp; Materials",
+            "Communication Equipment",
+            "Information Technology Services",
+            "Software—Application",
+            "Scientific &amp; Technical Instruments",
+            "Electronic Components",
+            "Computer Hardware",
+            "Solar",
+            "Telecom Services - Foreign",
+            "Electronics &amp; Computer Distribution"
+        ]
+    },
+    {
+        "category": "Energy",
+        "subcategory": [
+            "Oil &amp; Gas Integrated",
+            "Oil &amp; Gas E&amp;P",
+            "Oil &amp; Gas Midstream",
+            "Thermal Coal",
+            "Oil &amp; Gas Equipment &amp; Services",
+            "Oil &amp; Gas Refining &amp; Marketing",
+            "Uranium"
+        ]
+    },
+    {
+        "category": "Communication Services",
+        "subcategory": [
+            "Internet Content &amp; Information",
+            "Telecom Services",
+            "Entertainment",
+            "Electronic Gaming &amp; Multimedia",
+            "Publishing",
+            "Advertising Agencies",
+            "Broadcasting"
+        ]
+    },
+    {
+        "category": "Consumer Cyclical",
+        "subcategory": [
+            "Internet Retail",
+            "Auto Manufacturers",
+            "Luxury Goods",
+            "Home Improvement Retail",
+            "Restaurants",
+            "Footwear &amp; Accessories",
+            "Apparel Retail",
+            "Travel Services",
+            "Specialty Retail",
+            "Lodging",
+            "Leisure",
+            "Furnishings, Fixtures &amp; Appliances",
+            "Auto Parts",
+            "Resorts &amp; Casinos",
+            "Residential Construction",
+            "Gambling",
+            "Personal Services",
+            "Apparel Manufacturing",
+            "Packaging &amp; Containers",
+            "Department Stores",
+            "Auto &amp; Truck Dealerships",
+            "Textile Manufacturing",
+            "Recreational Vehicles"
+        ]
+    },
+    {
+        "category": "Financial Services",
+        "subcategory": [
+            "Insurance—Diversified",
+            "Credit Services",
+            "Banks—Diversified",
+            "Capital Markets",
+            "Banks—Regional",
+            "Financial Data &amp; Stock Exchanges",
+            "Asset Management",
+            "Insurance—Life",
+            "Insurance—Property &amp; Casualty",
+            "Insurance Brokers",
+            "Mortgage Finance",
+            "Insurance—Reinsurance",
+            "Financial Conglomerates",
+            "Insurance—Specialty",
+            "Shell Companies"
+        ]
+    },
+    {
+        "category": "Healthcare",
+        "subcategory": [
+            "Healthcare Plans",
+            "Drug Manufacturers—General",
+            "Biotechnology",
+            "Diagnostics &amp; Research",
+            "Medical Devices",
+            "Medical Instruments &amp; Supplies",
+            "Drug Manufacturers—Specialty &amp; Generic",
+            "Medical Care Facilities",
+            "Medical Distribution",
+            "Pharmaceutical Retailers",
+            "Health Information Services"
+        ]
+    },
+    {
+        "category": "Consumer Defensive",
+        "subcategory": [
+            "Discount Stores",
+            "Household &amp; Personal Products",
+            "Packaged Foods",
+            "Beverages—Wineries &amp; Distilleries",
+            "Beverages—Non-Alcoholic",
+            "Tobacco",
+            "Beverages—Brewers",
+            "Confectioners",
+            "Farm Products",
+            "Food Distribution",
+            "Grocery Stores"
+        ]
+    },
+    {
+        "category": "Utilities",
+        "subcategory": [
+            "Utilities—Regulated Electric",
+            "Utilities—Independent Power Producers",
+            "Utilities—Diversified",
+            "Utilities—Regulated Gas",
+            "Utilities—Renewable",
+            "Utilities—Regulated Water"
+        ]
+    },
+    {
+        "category": "Basic Materials",
+        "subcategory": [
+            "Specialty Chemicals",
+            "Other Industrial Metals &amp; Mining",
+            "Chemicals",
+            "Copper",
+            "Agricultural Inputs",
+            "Steel",
+            "Gold",
+            "Building Materials",
+            "Paper &amp; Paper Products",
+            "Aluminum",
+            "Other Precious Metals &amp; Mining",
+            "Lumber &amp; Wood Production"
+        ]
+    },
+    {
+        "category": "Industrials",
+        "subcategory": [
+            "Integrated Freight &amp; Logistics",
+            "Aerospace &amp; Defense",
+            "Conglomerates",
+            "Electrical Equipment &amp; Parts",
+            "Railroads",
+            "Farm &amp; Heavy Construction Machinery",
+            "Specialty Industrial Machinery",
+            "Staffing &amp; Employment Services",
+            "Waste Management",
+            "Engineering &amp; Construction",
+            "Specialty Business Services",
+            "Building Products &amp; Equipment",
+            "Marine Shipping",
+            "Trucking",
+            "Industrial Distribution",
+            "Consulting Services",
+            "Airports &amp; Air Services",
+            "Infrastructure Operations",
+            "Rental &amp; Leasing Services",
+            "Security &amp; Protection Services",
+            "Airlines",
+            "Business Equipment &amp; Supplies",
+            "Tools &amp; Accessories",
+            "Pollution &amp; Treatment Controls"
+        ]
+    },
+    {
+        "category": "Real Estate",
+        "subcategory": [
+            "REIT—Industrial",
+            "REIT—Specialty",
+            "REIT—Retail",
+            "Real Estate—Development",
+            "Real Estate Services",
+            "REIT—Diversified",
+            "REIT—Office",
+            "REIT—Healthcare Facilities",
+            "REIT—Residential",
+            "Real Estate—Diversified",
+            "REIT—Hotel &amp; Motel",
+            "REIT—Mortgage"
+        ]
+    }
+]

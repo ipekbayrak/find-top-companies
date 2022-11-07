@@ -1,0 +1,28 @@
+[
+    {
+        "category": "Education", 
+        "subcategory": [
+            "Education Management", 
+            "E-Learning", 
+            "Higher Education", 
+            "Primary/Secondary Education", 
+            "Research"
+        ]
+    },
+    {
+        "category": "Construction", 
+        "subcategory": [
+            "Building Materials",
+            "Civil Engineering",
+            "Construction"
+        ]
+    },
+    {
+        "category": "Design", 
+        "subcategory": [
+            "Architecture & Planning",
+            "Design",
+            "Graphic Design"
+        ]
+    }
+]
