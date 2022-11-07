@@ -1,18 +1,13 @@
-readable 
-serviceable 
-backend in MongoDB.
+# find top companies
+- backend in MongoDB
+- user select country, industry and sector
+- a company db is scraped from web.
+- an /api/search is for searching api with country, industry and sector parameters
+- an /api/store is for storing obdained data into mongo db
+- an /api/get is for getting stored list
 
-allows the user to select a country "de_DE - Germany" or "en_US - United States of America") 
-an industry (e.g. Coaching etc.) (see list here: https://back2marketingschool.com/linkedin-industries-list/) 
-automatically creates a database of the first 250 companies listed on LinkdedIn.com for that country.
-
-In that database please save the 
-company name
-full address
-phone number 
-e-mail-address
-website URL.
-
-Please provide a link to the working app (if you have no server available, please let us know), 
-the source code in a way that you would share it with a client or colleague via Git repository 
-your written documentation for a small project like this plus some lines about what were the challenges of the project and how you overcame them.
+# how to run
+```
+npx expo start --web
+node server/index.js      
+```
